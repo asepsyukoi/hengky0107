@@ -1,0 +1,243 @@
+#EXTM3U
+
+#EXTINF:-1,RCTI
+https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:1,GTV SYUKOI
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:1,MNCTV SYUKOI
+https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:1,INEWSTV SYUKOI
+https://cdn-livetv2.metube.id/hls/inewstv_480/index.m3u8
+#EXTINF:1,INDOSIAR SYUKOI
+https://cdn-livetv1.metube.id/hls/indosiar_480/index.m3u8
+#EXTINF:0, indosiar
+https://cdn-livetv1.metube.id/hls/indosiar.m3u8
+#EXTINF:0, indosiar2
+http://rr2.dens.tv/s/s04/index1.m3u8
+#EXTINF:1,TRANTV SYUKOI
+https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+#EXTINF:1,TRAN 7 SYUKOI
+https://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8
+#EXTINF:1,METROTV SYUKOI
+https://cdn-livetv1.metube.id/hls/metrotv_480/index.m3u8
+#EXTINF:1,ANTV SYUKOI
+https://cdn-livetv1.metube.id/hls/antv_480/index.m3u8
+#EXTINF:1,TVONE SYUKOI
+https://cdn-livetv1.metube.id/hls/tvone_480/index.m3u8
+#EXTINF:1,MNC NEWS SYUKOI
+https://cdn-livetv1.metube.id/hls/mncnews_480/index.m3u8
+#EXTINF:1,TVRI SYUKOI
+https://cdn-livetv2.metube.id/hls/tvri_480/index.m3u8
+#EXTINF:-1,Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
+#EXTINF:1,NET_HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:1,TRANSTV_HD
+http://dmlive.vo.llnwd.net/34/dm/3/x4nwi47/live-3.m3u8
+#EXTINF:0,(ID) IDX CHANNEL
+https://cdn-livetv1.metube.id/hls/idxchannel.m3u8
+#EXTINF:0,(ID) MNC SHOP CH.79
+https://cdn-livetv1.metube.id/hls/mncshop79.m3u8
+#EXTINF:0,(ID) MNC SHOP CH.88
+https://cdn-livetv1.metube.id/hls/mncshop.m3u8
+#EXTINF:0,(ID) MNC NEWS
+https://cdn-livetv1.metube.id/hls/mncnews.m3u8
+#EXTINF:1,RTV
+http://rr2.dens.tv/s/s12/index1.m3u8
+#EXTINF:1,KOMPASTV
+http://stream-03.sg1.dailymotion.com/37/dm/3/x54ozbu/live-2.m3u8
+#EXTINF:1,CNN_INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:1,BERITA_SATU_SD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
+#EXTINF:1,TVRI_NASIONAL_BANDUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
+#EXTINF:1,TVRI_SPORTS_(360p)
+http://rr2.dens.tv/s/s48/index1.m3u8
+#EXTINF:1,TVRI_SPORTS_(480p)
+http://rr2.dens.tv/s/s48/index2.m3u8
+#EXTINF:1,TVRI_NASIONAL
+http://cdn-livetv2.metube.id/hls/tvri_480/index.m3u8
+#EXTINF:1,TVRI_NASIONAL_2
+http://cdn-livetv2.metube.id/hls/tvri.m3u8
+#EXTINF:1,Kids_Diamond
+http://119.235.249.60:1935/kids/live/playlist.m3u8
+#EXTINF:1,Avava_Diamond
+http://119.235.249.60:1935/adti/live/playlist.m3u8
+#EXTINF:1,Gold_Diamond
+http://119.235.249.60:1935/gold/live/playlist.m3u8
+#EXTINF:1,Black_Diamond
+http://119.235.249.60:1935/bdti/live/playlist.m3u8
+#EXTINF:1,Avava_Bollywood_Diamond
+http://119.235.249.60:1935/abc/live/playlist.m3u8
+#EXTINF:1,Red_Diamond
+http://119.235.249.60:1935/red/live/playlist.m3u8
+#EXTINF:1,Diamond_Earth
+http://119.235.249.60:1935/earth/live/playlist.m3u8
+#EXTINF:1,DAITV
+http://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
+#EXTINF:0,(ID) JAKARTA GLOBE NEWS CHANNEL
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:0,(ID) INSPIRA TV
+http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) NUSANTARA TV
+http://103.77.106.171:1935/live/liventv1/playlist.m3u8
+#EXTINF:0,(ID) IN TV
+http://flash1.broadcastindo.net/bantentv/stream.sdp/playlist.m3u8
+#EXTINF:0,(ID) TVRI NASIONAL
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#EXTINF:0,(ID) TVRI BUDAYA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:0,(ID) MALEO CHANNEL
+http://stream1.ninmedia.tv/live/nin-bmw.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) KLIK MUSIK
+http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", T-MUSIC (Music)
+http://lihattv.com/?play=43318
+#EXTINF:0,(ID) SALURAN MUSIK INDONESIA
+http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) SALURAN FILM INDONESIA
+http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) TV BMW
+http://stream1.ninmedia.tv/live/nin-dc7.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) NU CHANNEL
+http://stream1.ninmedia.tv/live/nin-nuchannel.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) DMI CHANNEL
+http://stream1.ninmedia.tv/live/nin-dmi.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) TV TABALONG
+http://stream1.ninmedia.tv/live/nin-tabalong.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) KITANESIA
+http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) SALING SAPA
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:0,(ID) INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:0,(ID) ASWAJA TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+#EXTINF:0,(ID) RODJA TV
+http://rr2.dens.tv/s/s14/index1.m3u8
+#EXTINF:0,(ID) ANTARA TV
+http://edge.telin.swiftserve.com/live/LiveOONA/antara-da5a865f3284/playlist.m3u8
+#EXTINF:-1,Mekka tv
+http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
+#EXTINF:0,SUNNA tv
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8
+#EXTINF:0,QURAN tv
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", Disney JR
+http://93.87.85.10/PLTV/88888888/224/3221226893/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qNtgfBDs7umS%2FENTcD6cSITetKXkxKb%2FLn%2BDS1CmTnU%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001907%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", ANIMAX (KIDS - INDONESIA)
+http://rr.dens.tv/h/h18/index1.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", ANIPLUS (KIDS - INDONESIA)
+http://rr.dens.tv/h/h02/index1.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", DA VINCI KIDS (KIDS - INDONESIA)
+http://rr.dens.tv/h/h01/index1.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", BIZNET KIDS (Kids)
+http://lihattv.com/?play=43680
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", KIDS CHANNEL (Kids)
+http://lihattv.com/?play=43215
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", MY KIDS (Kids)
+http://lihattv.com/?play=43362
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", NAT GEO WILD (Education)
+http://lihattv.com/?play=43348
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", NATIONAL GEOGRAPHIC (Education)
+http://lihattv.com/?play=43347
+#EXTINF:-1 group-title=”ASIA”,HISTORY
+http://cloudiptv.dyndns.tv:1935/live/_definst_/Hitstoryhd.stream/playlist.m3u8?username=zo&password=f84quqgi1l7jwqd
+
+#EXTINF:0, group-title="Film", Celestial Movie kabel
+http://lihattv.com/?play=43414
+#EXTINF:0, group-title="Film", Kix _ Kabel
+http://lihattv.com/?play=43340
+#EXTINF:0, group-title="Film", Fox Movies _ Kabel
+http://lihattv.com/?play=43350
+#EXTINF:0, group-title="Film", Fox Action Movies _ Kabel
+http://lihattv.com/?play=43351
+#EXTINF:0, group-title="Film", Fox Family Movies _ Kabel
+http://lihattv.com/?play=43352
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", AXN (ENTERTAINMENT - INDONESIA)
+http://rr.dens.tv/h/h09/index1.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", DUBAI ONE (ENTERTAINMENT - INDONESIA)
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", S ONE (ENTERTAINMENT - INDONESIA)
+http://rr.dens.tv/h/h13/index1.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", SBS IN HD (ENTERTAINMENT - INDONESIA)
+http://rr.dens.tv/h/h28/index1.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", SONY CHANNEL (ENTERTAINMENT - INDONESIA)
+http://rr.dens.tv/h/h06/index1.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", STV (INDONESIA)
+http://122.248.32.234:1935/ch19/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", K DRAMA (Drama)
+http://lihattv.com/?play=43420
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", K+ (Entertainment)
+http://lihattv.com/?play=43343
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", KIX (Entertainment)
+http://lihattv.com/?play=43340
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", THRILL (Entertainment)
+http://lihattv.com/?play=43415 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", TOONMAX TV (Kids)
+http://lihattv.com/?play=43416
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", ZEEBIOSKOP (Movies)
+http://lihattv.com/?play=43413
+
+#EXTINF:-1,Piala Dunia_kabel
+http://35.187.232.239:8000/play/a003/index.m3u8
+#EXTINF:-1,GOJEK_kabel
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+#EXTINF:1,UseeTvsport kabel
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+#EXTINF:-1,Bein Sport1 True
+http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
+#EXTINF:-1,Bein Sport2 True
+http://main-a.for-our.info:8081/tv11/bein2/chunks.m3u8
+#EXTINF:-1,Bein Sport3 True
+http://main-a.for-our.info:8081/tv11/bein3/chunks.m3u8
+#EXTINF:-1,Bein Sport4 True
+http://main-a.for-our.info:8081/tv11/bein4/chunks.m3u8
+#EXTINF:-1,Treue Sport
+http://main-a.for-our.info:8081/tv11/sporthd1/chunks.m3u8
+#EXTINF:-1,Treue Sport HD
+http://main-a.for-our.info:8081/tv11/sporthd2/chunks.m3u8
+
+#EXTINF:1,SYUKOI SPORT ----SONY TEN 1 SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:1,SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:1,SONY TEN 2 SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/index.m3u8
+#EXTINF:1,SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:1,SONY TEN 3 SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:1,SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:1,SONY ESPN SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:1,SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:1,SONY SIX SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8
+#EXTINF:1,SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:1,THAI TV5 HD1
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/5hd.smil/chunklist.m3u8
+#EXTINF:1,TRUE 4U | 24
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/true4u.smil/chunklist.m3u8
+#EXTINF:1,AMARIN TV HD 34
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/amarinhd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", FOX SPORTS (Sport)
+http://lihattv.com/?play=43353
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", FOX SPORTS 2 (Sport)
+http://lihattv.com/?play=43354
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", FOX SPORTS 3 (Sport)
+http://lihattv.com/?play=43355
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", KLIK MUSIC (Music)
+http://lihattv.com/?play=43211
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", MIMOZA TV (Global)
+http://lihattv.com/?play=12707.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", MUGOS TV (Music)
+http://lihattv.com/?play=43289
+
+#EXTINF:-1,Fashiontv
+http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
